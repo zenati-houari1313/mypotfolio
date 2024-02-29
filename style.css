@@ -94,7 +94,11 @@ footer{
     align-items: center;
     width: 50%;
     height: 100%;
+<<<<<<< HEAD
     
+=======
+    border: 3px solid black;
+>>>>>>> 21f3c61e591f116275c9899bd0596efbcdba1937
   }
   .list1
   {
@@ -112,6 +116,7 @@ footer{
   
     
   }
+<<<<<<< HEAD
   @media (max-width: 525px) {
     .photo{
       width: 150px;
@@ -130,4 +135,8 @@ footer{
   }
   
   
+=======
+  
+
+>>>>>>> 21f3c61e591f116275c9899bd0596efbcdba1937
   
